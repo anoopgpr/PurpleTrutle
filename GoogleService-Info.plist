@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>119804564475-8hkp4jrdklskepeimqnme87p7fssenjn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.119804564475-8hkp4jrdklskepeimqnme87p7fssenjn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCs0otr3bMLCsyr5G9953R6Bnnmj6ybEw4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>119804564475</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mobiquest.mobisharewapurpleturtle</string>
+	<key>PROJECT_ID</key>
+	<string>purple-turtle-woo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>purple-turtle-woo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:119804564475:ios:11c8e2f5484345ce67b15e</string>
+	<key>DATABASE_URL</key>
+	<string>https://purple-turtle-woo.firebaseio.com</string>
+</dict>
+</plist>

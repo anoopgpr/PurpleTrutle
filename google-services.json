@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "119804564475",
+    "firebase_url": "https://purple-turtle-woo.firebaseio.com",
+    "project_id": "purple-turtle-woo",
+    "storage_bucket": "purple-turtle-woo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119804564475:android:aa3263aadd9a5d9167b15e",
+        "android_client_info": {
+          "package_name": "com.mobiquest.mobisharewapurpleturtle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119804564475-hs01ntphemagirlsenn41u3qe6o9nm2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzQXJSA6CnxXHyh4zdfgKAjtc1-rKIisk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119804564475-hs01ntphemagirlsenn41u3qe6o9nm2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
